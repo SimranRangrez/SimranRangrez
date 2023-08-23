@@ -1,5 +1,3 @@
-### Hi there 👋
-
  [![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1340005831%2Fvector%2Fweb-development-related-vector-banner-design-concept-modern-line-style-with-icons.jpg%3Fs%3D1024x1024%26w%3Dis%26k%3D20%26c%3DiumfvQdWUk19XSdsj4yp3bFqX40IjIZG8htHk_4Ooqw%3D&tbnid=feN961f_ddgjLM&vet=12ahUKEwiHlcjckOuAAxVTzaACHcv1DjQQMygnegUIARC7AQ..i&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fvector%2Fweb-development-related-vector-banner-design-concept-modern-line-style-with-icons-gm1340005831-420194359&docid=VcXmVxLUl943mM&w=1024&h=576&q=web%20development%20banner%20design&ved=2ahUKEwiHlcjckOuAAxVTzaACHcv1DjQQMygnegUIARC7AQ])
 <h1 align="center">Hi 👋, I'm Simran Rangrez</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
