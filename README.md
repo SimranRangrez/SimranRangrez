@@ -1,8 +1,8 @@
- [![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1340005831%2Fvector%2Fweb-development-related-vector-banner-design-concept-modern-line-style-with-icons.jpg%3Fs%3D1024x1024%26w%3Dis%26k%3D20%26c%3DiumfvQdWUk19XSdsj4yp3bFqX40IjIZG8htHk_4Ooqw%3D&tbnid=feN961f_ddgjLM&vet=12ahUKEwiHlcjckOuAAxVTzaACHcv1DjQQMygnegUIARC7AQ..i&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fvector%2Fweb-development-related-vector-banner-design-concept-modern-line-style-with-icons-gm1340005831-420194359&docid=VcXmVxLUl943mM&w=1024&h=576&q=web%20development%20banner%20design&ved=2ahUKEwiHlcjckOuAAxVTzaACHcv1DjQQMygnegUIARC7AQ])
+ ![MasterHead]( https://thumbs.dreamstime.com/z/web-development-coding-programming-internet-technology-business-concept-web-development-coding-programming-internet-technology-122741764.jpg?w=992)]
 <h1 align="center">Hi 👋, I'm Simran Rangrez</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src= "https://iconscout.com/lottie/female-web-developer-working-from-home-4518782">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simranrangrez&label=Profile%20views&color=0e75b6&style=flat" alt="simranrangrez" /> </p>
+<img align="right" alt="Coding" width="400" src ="https://img.freepik.com/free-vector/cartoon-style-programmer-working_52683-22693.jpg?w=740&t=st=1692947993~exp=1692948593~hmac=7d4f8ac105c3a534e13a5fb4c127d22fa20afeec5b647d9069205cc288b4bede"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=simranrangrez&label=Profile%20views&color=0e75b6&style=flat" alt="simranrangrez"/> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
