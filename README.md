@@ -1,6 +1,6 @@
  ![MasterHead]( https://thumbs.dreamstime.com/z/web-development-coding-programming-internet-technology-business-concept-web-development-coding-programming-internet-technology-122741764.jpg?w=992)]
 <h1 align="center">Hi 👋, I'm Simran Rangrez</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src ="https://img.freepik.com/free-vector/cartoon-style-programmer-working_52683-22693.jpg?w=740&t=st=1692947993~exp=1692948593~hmac=7d4f8ac105c3a534e13a5fb4c127d22fa20afeec5b647d9069205cc288b4bede"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simranrangrez&label=Profile%20views&color=0e75b6&style=flat" alt="simranrangrez"/> </p>
 
