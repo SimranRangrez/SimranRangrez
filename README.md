@@ -1,4 +1,4 @@
- ![MasterHead](https://en.idei.club/uploads/posts/2023-03/1679504261_en-idei-club-p-programmer-wallpaper-dizain-vkontakte-18.jpg )]
+<img src="https://en.idei.club/uploads/posts/2023-03/1679504261_en-idei-club-p-programmer-wallpaper-dizain-vkontakte-18.jpg" width="100%" height="350px" align="center">
 <h1 align="center">Hi 👋, I'm Simran Rangrez</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src ="https://img.freepik.com/free-vector/cartoon-style-programmer-working_52683-22693.jpg?w=740&t=st=1692947993~exp=1692948593~hmac=7d4f8ac105c3a534e13a5fb4c127d22fa20afeec5b647d9069205cc288b4bede"/>
