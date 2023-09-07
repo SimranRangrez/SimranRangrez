@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [web-development-beginner-to-advance](https://simranrangrez.github.io/web-development-beginner-to-advance/)
+- 🔭 I’m currently working on [web-development-beginner-to-advance](https://github.com/SimranRangrez/web-development-beginner-to-advance)
 
 - 🌱 I’m currently preparing for **"GATE" Exam**
 
