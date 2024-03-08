@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [web-development-beginner-to-advance](https://github.com/SimranRangrez/web-development-beginner-to-advance)
+- 🔭 I’m currently working on  [https://simranrangrez.github.io/web-development-portfolio/)
 
 - 🌱 I’m currently preparing for **"GATE" Exam**
 
 - 👯 I’m looking to collaborate on **web development**
 
-- 👨‍💻 All of my projects are available at [https://simranrangrez.github.io/html-Portfolio/](https://simranrangrez.github.io/html-Portfolio/)
+- 👨‍💻 All of my projects are available at [ https://simranrangrez.github.io/web-development-portfolio/4.3%20HTML%20Porfolio%20Project/index.html )
 
 - 💬 Ask me about **Ethical Hacking**
 
